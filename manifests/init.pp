@@ -1,4 +1,10 @@
-# This is a placeholder class.
-class template {
-  anchor { 'Hello_World': }
+# Public: Install elixir via homebrew
+#
+# Examples
+#
+#   include elixir
+class elixir {
+  include homebrew
+
+  package { 'elixir': }
 }
