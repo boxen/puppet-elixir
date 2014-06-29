@@ -15,6 +15,7 @@ include elixir
 
 * `boxen`
 * `homebrew`
+* `erlang`
 
 ## Development
 
