@@ -1,7 +1,6 @@
 # Elixir Puppet Module for Boxen
 
 Installs [Elixir](http://elixir-lang.org/) is a functional, meta-programming aware language built on top of the Erlang VM.
-It is a dynamic language that focuses on tooling to leverage Erlang's abilities to build concurrent, distributed and fault-tolerant applications with hot code upgrades.
 
 [![Build Status](https://travis-ci.org/boxen/puppet-elixir.svg?branch=master)](https://travis-ci.org/boxen/puppet-elixir)
 
